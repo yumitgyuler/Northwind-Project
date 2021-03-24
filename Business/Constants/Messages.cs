@@ -8,6 +8,6 @@ namespace Business.Constants
     {
         public static string ProductAdded = "Product added";
         public static string ProductNameInvalid = "Product name invalid";
-        public static string MaintenanceTime = "";
+        public static string MaintenanceTime = "Oppppsssss";
     }
 }
